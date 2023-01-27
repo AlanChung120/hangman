@@ -1,6 +1,5 @@
 # hangman
-Finished and uploaded January 27th, 2023. Used React. This is a simple web hangman game. One player can first enter a phrase (less than 60 characters) or get a random word <br />
-and the other player will try to guess the phrase/word using alphabet buttons (reveal if the alphabet exists in the phrase/word) or by flat out guessing the phrase/word. <br />
+Finished and uploaded January 27th, 2023. Used React. This is a simple web hangman game. One player can first enter a phrase (less than 60 characters) or get a random word and the other player will try to guess the phrase/word using alphabet buttons (reveal if the alphabet exists in the phrase/word) or by flat out guessing the phrase/word. <br />
 The user is allowed 6 wrong alphabet or phrase/word guesses until game over. <br />
 You'll need to download Node.js: https://nodejs.org/en/ <br />
 To run: <br />
